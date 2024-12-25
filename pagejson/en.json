@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "sprunki.to",
+    "description": "Experience the mind-bending world of music mixing with sprunki. A surreal musical journey into digital creativity and fun beats.",
+    "keywords": "sprunki, Music Mixer, Digital Art, Experimental Music, Beat Making, sprunki.to"
+  },
+  "header": {
+    "brand": {
+      "title": "sprunki.to",
+      "url": "/",
+      "avatar": {
+        "src": "/logo.png"
+      }
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "All Games",
+          "url": "/all",
+          "target": "_self"
+        },
+        {
+          "title": "Download",
+          "url": "/download",
+          "target": "_self"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "title": "Welcome to sprunki.to",
+    "description": "Dive into a creative digital realm where music meets fun"
+  },
+  "faq": {
+    "title": "FAQ",
+    "description": "Frequently Asked Questions",
+    "items": [
+      {
+        "title": "What is sprunki?",
+        "description": "sprunki is an engaging musical experience that combines fun characters with interactive sound creation. It's a unique platform where players can create music through interactive interfaces and creative visuals."
+      },
+      {
+        "title": "What makes sprunki special?",
+        "description": "sprunki takes the music mixing experience and enhances it with quirky characters, fun visuals, and engaging gameplay elements. It creates a unique blend of digital creativity and musical experimentation."
+      },
+      {
+        "title": "How do I play?",
+        "description": "Simply click 'Play Now' to begin. You'll be able to interact with various glitched characters, each producing unique sounds. Combine these elements to create your own haunting musical compositions."
+      },
+      {
+        "title": "Is it free to play?",
+        "description": "Yes, sprunki is free to play directly in your web browser. No downloads or installations required."
+      }
+    ]
+  },
+  "footer": {
+    "brand": {
+      "title": "sprunki",
+      "description": "A journey into musical creativity and fun",
+      "domain": "https://sprunki.to"
+    },
+    "copyright": {
+      "owner": "sprunki.to",
+      "text": "All rights reserved",
+      "url": "https://sprunki.to",
+      "target": "_blank"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "Privacy Policy",
+              "url": "/privacy-policy",
+              "target": "_blank"
+            },
+            {
+              "title": "Terms of Service",
+              "url": "/terms-of-service",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "title": "Features",
+          "children": [
+            {
+              "title": "sprunki Mod",
+              "url": "/sprunki-mod",
+              "target": "_self"
+            },
+            {
+              "title": "Original Version",
+              "url": "/original",
+              "target": "_self"
+            },
+            {
+              "title": "Music Creator",
+              "url": "/creator",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "children": [
+            {
+              "title": "Discord",
+              "url": "https://discord.gg/RsYPRrnyqg",
+              "target": "_blank"
+            },
+            {
+              "title": "Share Your Music",
+              "url": "/share",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Other",
+          "children": [
+            {
+              "title": "Who made the sounds for sprunki?",
+              "url": "/who-made-this",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": {
+        "email": {
+          "title": "contact@sprunki.to",
+          "url": "mailto:contact@sprunki.to"
+        }
+      }
+    }
+  }
+}
